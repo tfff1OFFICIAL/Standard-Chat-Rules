@@ -8,7 +8,7 @@ The second time you break a rule you will be banned for an admin, or moderator d
 
 ## The Rules
 
-### In General: Dont't be an asshole.
+### In General: Don't be an asshole.
 
 ### In Detail:
 - Don't try to find loopholes in the rules.
