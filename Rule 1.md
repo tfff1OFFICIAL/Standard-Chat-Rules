@@ -21,7 +21,7 @@ The second time you break a rule you will be banned for an admin, or moderator d
 - No harassment - INSTANT BAN.
 - Asking for personal details - PRIVATE CHAT EXISTS FOR A REASON.
 - No Illegal activity.
-- Text to speech is not allowed, it's annoying and difficult to moderate on a large scale.
+- Text to speech may, or may note be allowed depending on the server manager's preferences. If it's enabled, don't abuse it.
 - No racism or discrimination.
 - Report all activity that you believe to be outside of the rules by PMing someone such as a moderator, admin, or server manager.
 - No inappropriate material (in the forms of images, videos, sound recordings, chat messages etc.)
