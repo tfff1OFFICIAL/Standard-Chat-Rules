@@ -2,8 +2,10 @@
 
 These are the rules for the server you are using, the server you were directed to this from will from here be referred to as 'server'.
 
-Rules are on a __one warning basis__:
+Rules are on a __one warning basis__
+
 The first time you break a rule, you get a warning and get all ranks removed for one hour, if your an admin you aren't re-promoted to your previous position.
+
 The second time you break a rule you will be banned for an admin, or moderator decided length of time.
 
 ## The Rules
